@@ -1,3 +1,4 @@
+![capa githb fw](https://github.com/LucasPedruo/LucasPedruo/assets/147441250/774f2d6e-1276-42f0-881c-db6cf5f6e6fd)
 ### Hi there 👋
 
 <!--
