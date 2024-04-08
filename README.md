@@ -1,6 +1,6 @@
 ![capa githb fw](https://github.com/LucasPedruo/LucasPedruo/assets/147441250/cec93a56-ab6e-4b75-b6fe-1f1a6f9882ed)
 
-### Olá, que prazer ter você por aqui, fique à vontade 👋
+### Ei! Que prazer ter você por aqui! 👋
 ## 🌐 Confira alguns links úteis!
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lucaspedrodev)
