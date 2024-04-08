@@ -1,5 +1,6 @@
-![capa githb fw](https://github.com/LucasPedruo/LucasPedruo/assets/147441250/774f2d6e-1276-42f0-881c-db6cf5f6e6fd)
-### Hi there 👋
+![capa githb fw](https://github.com/LucasPedruo/LucasPedruo/assets/147441250/3389e4e3-c1cf-412c-8fba-bd37b69365be)
+
+### Olá, que prazer ter você por aqui, fique à vontade 👋
 
 <!--
 **LucasPedruo/LucasPedruo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
