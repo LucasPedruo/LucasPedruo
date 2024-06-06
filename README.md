@@ -13,11 +13,16 @@
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasPedruo&show_icons=true&theme=transparent)
 
 ## 🚀 Sobre mim:
-Desenvolvedor Front-end em formação e especialista em desenvolvimento WordPress. 
 
-Me dediquei a aprimorar minhas habilidades em tecnologias front-end e me destaco pela habilidade na utilização do WordPress e plugins para a construção de sistemas mantendo os mais altos padrões de desempenho na web e SEO.
+Sou formando em Análise e Desenvolvimento de Sistemas e estou me especializando em front-end, com foco nos frameworks React e Angular, enquanto estagio em uma empresa de sistemas ERP.
 
-Estudei análise e desenvolvimento de sistemas na faculdade Simonsen e atualmente estou me especializando em front-end pela udemy nas linguagens JavaScript, juntamente com frameworks como React, Angular, Vue.js, Node.js e Next.js.
+Dediquei alguns anos da minha vida para me aperfeiçoar em UX/UI Design, e possuo habilidades em WordPress, SEO e performance Web para WordPress.
+
+Estou sempre buscando aprimorar minhas habilidades e me manter atualizado.
+
+Trabalhei durante 5 anos como freela em UX/UI Design, utilizando ferramentas como Figma, Adobe Fireworks e Photoshop.
+
+No meu tempo livre, me dedico à criação de conteúdo gratuito no YouTube, compartilhando meu conhecimento e experiências diárias com a comunidade, também adoro jogar um lolzinho (por mais que eu seja horrível nesse jogo).
 
 ![trans-gif](https://github.com/LucasPedruo/LucasPedruo/assets/147441250/d3599b71-7819-48cd-84ff-e5b85b98fb2e)
 
