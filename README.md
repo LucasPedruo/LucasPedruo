@@ -35,4 +35,4 @@ No meu tempo livre, me dedico à criação de conteúdo gratuito no YouTube, com
 </div><br/>
 
 ## 📽️ Últimos videos:
-- [Nunca Mais Erre Ao Criar Uma Landing Page como Freelancer](https://youtu.be/QPpuR6mJ_vY?si=NPuJMBersnV3zGs_)<br/>
+- [Como Me tornei Dev em 1 Mes](https://www.youtube.com/channel/UCJpEaMb8FdO-xPAbcAWJxRQ)
