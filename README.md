@@ -15,4 +15,4 @@ Juntando todas as plataformas, possuo mais de 3 Milhões de visualizações e ce
 
 ## 🌐 Confira alguns links úteis!
 
-http://lucaspedruo.com/links
+http://lucaspedruo.com/
