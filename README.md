@@ -1,17 +1,17 @@
-## Eae! 👋
+## Eae, eu sou o Lucas! 👋
 
-Sou formando em Análise e Desenvolvimento de Sistemas.
+Me encontrei na área de T.I e atuo como programador Front-end Angular e UX/UI Designer em uma empresa de sistemas no Rio de Janeiro.
 
-Sou programador Front-end Angular e auxilio como Ux/Ui Design em uma empresa de sistemas ERP.
+Sou fundador da FullDev, uma comunidade independente e autossustentável com mais de 450 desenvolvedores, inspirada nos princípios de construção e aprendizado coletivo. 
 
-Estou trabalhando como Ui/Ux Design em um grande projeto na Futuro Dev Academy.
+Coordeno os projetos junto a uma equipe dedicada de organização onde buscamos proporcionar um espaço onde desenvolvedores de todos os níveis possam se conectar, aprender e desenvolver soluções reais. 
 
-Trabalhei por alguns anos como freelancer de UX/UI Design e Web Utilizando WordPress, Photoshop, Fireworks e Figma, ao longo desses anos além dessas ferramentas, desenvolvi habilidades com Html, css, php básico, SEO, e marketing digital.
+Nos últimos anos, trabalhei como freelancer em UX/UI Design e Desenvolvimento Web, utilizando WordPress, Photoshop, Angular, React e Figma. 
 
-Compartilho conteudos sobre tecnologia em minhas redes sociais. 
+Além dessas ferramentas, tenho me dedicado ao aprimoramento de habilidades em HTML, SCSS, SEO, JavaScript, TypeScript, Angular, React, Git, GitHub, Azure, Java, C# e marketing digital.
 
-Juntas, possuo mais de 3 Milhões de visualizações e cerca de 40 mil seguidores.
+Se tem uma coisa que eu sou bom, é tentar.
 
-Também adoro jogar com os amigos no meu tempo livre.
+Tenho uma paixão absurda por criar coisas e uma facilidade por reunir e mobilizar pessoas.
 
-http://lucaspedruo.com/
+Sempre que consigo um tempo livre, compartilho conteúdos sobre tecnologia nas redes sociais, contribuindo com a comunidade e inspirando outros a avançarem em suas jornadas.
